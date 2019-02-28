@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Personas>
+  <key id="2" />
+  <persona Nombre="Camila" id="1134" Edad="20" />
+  <persona Nombre="Amparo" id="1135" Edad="30" />
+  <persona Nombre="Rodrigo" id="1136" Edad="21" />
+  <persona Nombre="Sandra" id="1137" Edad="31" />
+  <key id="3" />
+  <persona Nombre="David" id="1130" Edad="31" />
+  <persona Nombre="Sofia" id="1131" Edad="30" />
+  <persona Nombre="Mario" id="1132" Edad="25" />
+  <persona Nombre="Camilo" id="1133" Edad="25" />
+</Personas>
